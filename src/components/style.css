@@ -1,0 +1,16 @@
+.img1{
+    /* margin-left: 3rem; */
+    margin-top: 3rem;
+    border-radius: 50%;
+    max-width: 20rem;
+    max-height: 20rem;
+}
+.img2{
+    border-radius: 50%;
+}
+.dedu{
+    display: block;
+}
+.nedu{
+    display: none;
+}
