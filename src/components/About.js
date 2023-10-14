@@ -53,7 +53,7 @@ class About extends Component{
                                             </tr>
                                             <tr>
                                                 <td>Secondary School</td>
-                                                <td>Bhashyam Hight School</td>
+                                                <td>Bhashyam High School</td>
                                                 <td>Guntur</td>
                                                 <td>2018-2019</td>
                                             </tr>
