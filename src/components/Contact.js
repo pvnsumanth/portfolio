@@ -5,7 +5,7 @@ import './style.css';
 class Contact extends Component{
     render(){
         return(
-            <div class="mt-3">
+            <div class="mt-3 mb-3">
                 <div class="container">
                     <h1>Contact</h1>
                     <div class="card" style={{backgroundColor:"#F9F6F0"}}>
