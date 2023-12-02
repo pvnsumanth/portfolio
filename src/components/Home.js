@@ -25,7 +25,7 @@ export function Home(){
                             <div class="card-body">
                                 <h1 class="card-title mt-5" style={{fontFamily:'cursive',fontWeight:"bolder"}}>Hello .....</h1>
                                 <h1 class="card-title" style={{fontFamily:'cursive'}}>Here is what I am</h1>
-                                <div class="text-center"><button style={{width:"10rem"}} class="btn btn-lg roundend-3 btn-success mt-5"><a href="https://drive.google.com/file/d/1RAAv_po4CwfPdjrEg5LdQz_zDqYm4U4f/view?usp=drive_link" target="_blanck" class="text-decoration-none text-white">Resume</a></button></div>
+                                <div class="text-center"><button style={{width:"10rem"}} class="btn btn-lg roundend-3 btn-success mt-5"><a href="https://drive.google.com/file/d/1wK_bB5BePs3G0SZDuQf68XXbg4RF23ew/view?usp=drive_link" target="_blanck" class="text-decoration-none text-white">Resume</a></button></div>
                                 <div class="text-center"><button style={{width:"10rem"}} class="btn btn-lg roundend-3 btn-success mt-5"><a href="https://github.com/pvnsumanth" target="_blanck" class="text-decoration-none text-white">Github</a></button></div>
                                 <div class="text-center"><button style={{width:"10rem"}} class="btn btn-lg roundend-3 btn-success mt-5"><a href="https://linkedin.com/in/paruchuri-sumanth-68718024b/" target="_blanck" class="text-decoration-none text-white">linkedin</a></button></div>
                                 <div class="text-center"><button style={{width:"10rem"}} class="btn btn-lg roundend-3 btn-success mt-5 mb-1"><a href="https://leetcode.com/pvnsmaruthikumar/" target="_blanck" class="text-decoration-none text-white">Leetcode</a></button></div>
