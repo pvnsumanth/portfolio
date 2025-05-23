@@ -15,7 +15,7 @@ class About extends Component{
                     <div class="card mb-3" >
                         <div class="row g-0">
                             <div class="col-md-3 text-center">
-                                <img src={pic.jpg} style={{maxHeight:"20rem"}} class="ml-1 my-1 img-fluid " alt="pass_phot"></img>
+                                <img src={pass_photo.jpg} style={{maxHeight:"20rem"}} class="ml-1 my-1 img-fluid " alt="pass_phot"></img>
                             </div>
                             <div class="col-md-9">
                                 <div class="card-body">
